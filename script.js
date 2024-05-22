@@ -43,3 +43,7 @@ if (misol5 >= 2) {
 } else {
   console.log("Javob notogri " + misol5 + " Togri javob 2");
 }
+
+
+
+prompt("Natijani ko'rish uchun konsolni oching")
